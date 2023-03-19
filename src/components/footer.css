@@ -1,0 +1,21 @@
+/******** FOOOTER *******/
+footer {
+    background-color: red;
+    color: white;
+    font-size: 1em;
+    font-weight: 700;
+  
+    padding: 1.5em;
+    flex-grow: 0;
+  }
+  
+  footer .content { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  footer .content a:hover {
+    color: black;
+  }
