@@ -1,4 +1,4 @@
-# Web Development Project 4 - **
+# Web Development Project 4 - *MetFindr*
 
 Submitted by: **Shohruz Ernazarov**
 
